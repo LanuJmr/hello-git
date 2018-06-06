@@ -1,0 +1,12 @@
+>>> git config --global user.name ""
+>>> git config --global user.email ""
+>>> git config user.name 
+>>> git config user.email
+>>> git init
+>>> git add ""
+>>> git status
+>>> git commit -m "Check"
+>>> git log
+>>> git add .
+>>> git remote add origin https://github.com/Demo
+>>> git push -u origin master 
